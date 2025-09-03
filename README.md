@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook (`CNN.ipynb`) implementing a Convolu
 
 ## 📂 Project Structure
 - **notebooks/CNN.ipynb** – Main notebook containing the full pipeline (data loading, preprocessing, model definition, training, and evaluation).
-- **data/dataset** – Dataset folder 
+- **data/data.txt** – File containing link for obtaining the dataset
 
 ---
 
